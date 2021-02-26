@@ -12,10 +12,10 @@
 
 ## 📢 this repositories have...
 
-* My c files
-* Little c project
+  * My c files
+  * Little c project
 
 
 
-***
-you can use this c files in MIT LICENSE!
+-----------------------------------
+this repo don't have c files I'll add it as soon as possible.
